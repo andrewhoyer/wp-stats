@@ -1,0 +1,2 @@
+# wp-stats
+WordPress statistics
