@@ -1,6 +1,6 @@
 # WP Stats
 
-A collection of WordPress statistics. Raw data files can be found in the ![Data](data) folder.
+A collection of WordPress statistics. Raw data files can be found in the ![data](data) folder.
 
 ## Download file sizes
 
