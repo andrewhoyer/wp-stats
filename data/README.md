@@ -10,9 +10,11 @@ Coming soon.
 
 ## Days between releases
 
-The data for the number of days since the previous release is contained in the `wp-days-since-release.png` file.
+The data for the number of days since the previous release is contained in the `wp-days-since-release.csv` file. It contains the following columns:
 
-Coming soon.
+* **Version**. The version of WordPress.
+* **Release Date**. The date the version was released.
+* **Days since last release**. The number of days between this release and the previous one.
 
 ## Plugins in the review queue
 
