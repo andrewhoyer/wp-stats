@@ -4,9 +4,13 @@ This folder contains the data files in CSV format.
 
 ## Download file sizes
 
-The data for the download size of WordPress releases is contained in the `wp-download-file-sizes.png` file.
+The data for the download size of WordPress releases is contained in the `wp-download-file-sizes.png` file. It contains the following columns, with all sizes noted in MB:
 
-Coming soon.
+* **Version**. The version of WordPress.
+* **File size**. The file size of the download (zip).
+* **File size change**. The difference in size from the previous version.
+* **Themes size**. The file size of the themes folder (zip).
+* **File size without themes**. The file size without the themes folder (zip).
 
 ## Days between releases
 
